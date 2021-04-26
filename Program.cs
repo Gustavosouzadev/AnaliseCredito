@@ -6,6 +6,7 @@ namespace AnaliseCredito
     {
         static void Main(string[] args)
         {
+            Console.Clear();
             
             decimal valor, renda, PorCentRenda;
             int resultado, parcelas;
